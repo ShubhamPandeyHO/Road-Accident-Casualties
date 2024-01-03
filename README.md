@@ -1,6 +1,7 @@
 # Road-Accident-Casualties
 
-![Uploading road-accident.jpg…]()
+![road-accident](https://github.com/ShubhamPandeyHO/Road-Accident-Casualties/assets/122806275/62fd936f-8f61-4938-9d7f-b6a338c27f1b)
+
 
 Index: A unique identifier for each accident.
 Accident_Severity: Indicates the severity of the accident (e.g., Serious, Slight).
